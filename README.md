@@ -75,7 +75,7 @@ Managed cross-functional teams and strategic partnerships for UIUC's blockchain 
 <td><b>Weave</b></td>
 <td>Hybrid graph and vector engine that finds hidden conceptual overlap across university curricula, linking things like mechanical spring-mass systems to electrical RLC circuits. Custom scoring combines SciNCL embeddings, TF-IDF cosine similarity, and Jensen-Shannon divergence to suppress same-department noise.</td>
 <td>FastAPI, Neo4j Aura, pgvector, Supabase, AWS</td>
-<td><a href="https://dogeyboy19-armchair.hf.space/">Live</a> · <a href="https://github.com/dogeyboy1932/siip-aws">Source</a></td>
+<td><a href="https://dogeyboy19-armchair.hf.space/">Live</a> · Source private, available on request</td>
 </tr>
 <tr>
 <td><b>NodeFlow</b></td>
@@ -87,7 +87,7 @@ Managed cross-functional teams and strategic partnerships for UIUC's blockchain 
 <td><b>ShotBook</b></td>
 <td>Book-to-video platform that tracks evolving story lore so users can highlight text and generate scenes in real time. Baseline-then-delta state machine enforcing narrative continuity across generations.</td>
 <td>React, FastAPI/Pydantic, PostgreSQL, vLLM, Wan 2.2</td>
-<td><a href="https://github.com/dogeyboy1932/shotbook">Source</a></td>
+<td><a href="https://github.com/dogeyboy1932/ShotBook">Source</a></td>
 </tr>
 <tr>
 <td><b>MyCalPal</b></td>
@@ -99,7 +99,7 @@ Managed cross-functional teams and strategic partnerships for UIUC's blockchain 
 <td><b>StakeShack</b></td>
 <td>Trustless renting platform replacing third-party guarantors with crypto-staking verification, plus referral rewards and AI-powered recommendations. Built solo in 48 hours. 2nd place, $1,500, OnionDAO Solana Hackathon.</td>
 <td>Next.js, TypeScript, Supabase/PostgreSQL, Gill/Anchor/Rust</td>
-<td><a href="https://github.com/dogeyboy1932/stakeShack">Source</a></td>
+<td><a href="https://github.com/dogeyboy1932/StakeShack">Source</a></td>
 </tr>
 <tr>
 <td><b>SolPal</b></td>
