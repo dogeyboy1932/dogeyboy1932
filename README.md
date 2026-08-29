@@ -21,7 +21,7 @@ Building AI systems that turn emerging technology into real, measurable impact
 ---
 
 ### 💼 Experience
-<sub>Selected, 2025 onward. Full history on my <a href="https://akhilgogineni.lol/resume.pdf">resume</a>.</sub>
+<sub>Selected, 2025 onward. Full history on my <a href="https://akhilgogineni.lol/portfolio">wesbite</a>.</sub>
 
 <table width="100%">
 <tr>
