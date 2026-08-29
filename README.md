@@ -6,13 +6,13 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/WEBSITE-06B6D4?style=for-the-badge&logo=safari&logoColor=white)](https://akhilgogineni.lol)
+[![Website](https://img.shields.io/badge/WEBSITE-F72585?style=for-the-badge&logo=googleearth&logoColor=white)](https://akhilgogineni.lol)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gvAkhil)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-B5179E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gvAkhil)
 &nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagogineni@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-7209B7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagogineni@gmail.com)
 &nbsp;
-[![Resume](https://img.shields.io/badge/RESUME-8B5CF6?style=for-the-badge&logo=googledocs&logoColor=white)](https://akhilgogineni.lol/resume.pdf)
+[![Resume](https://img.shields.io/badge/RESUME-3A0CA3?style=for-the-badge&logo=googledocs&logoColor=white)](https://akhilgogineni.lol/resume.pdf)
 
 </div>
 
@@ -24,31 +24,26 @@ I build AI systems that turn emerging technology into real, measurable impact.
 
 ### 💼 Experience
 
-<table>
+<table width="100%">
 <tr>
-<td width="20%"><img src="https://img.shields.io/badge/PwC-D04A02?style=for-the-badge&logoColor=white" /><br><sub>Chicago, IL</sub></td>
+<td width="20%"><img src="https://www.google.com/s2/favicons?domain=pwc.com&sz=64" width="16" align="top" /> <b>PwC</b><br><sub>Chicago, IL</sub></td>
 <td width="26%"><b>AI Engineering Intern</b><br><sub>Jun 2026 – Aug 2026</sub></td>
 <td width="54%">Config-driven RAG pipeline on Databricks. Built the LLM-as-a-judge benchmark that proved it: 300+ docs ingested, 100+ query eval set, 5% answer quality gain.<br><br><code>Databricks</code> <code>Python</code> <code>Spark</code></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/UIUC_MechSE-E84A27?style=for-the-badge&logoColor=white" /><br><sub>Champaign, IL</sub></td>
+<td><img src="https://www.google.com/s2/favicons?domain=illinois.edu&sz=64" width="16" align="top" /> <b>UIUC MechSE</b><br><sub>Champaign, IL</sub></td>
 <td><b>Graduate Research Assistant</b><br><sub>Mar 2026 – May 2026</sub></td>
 <td>Built Weave: hybrid graph and vector engine surfacing cross-disciplinary curriculum overlap across 35 courses and 1,669 topics.<br><br><code>FastAPI</code> <code>Neo4j</code> <code>pgvector</code> <code>AWS</code></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Mercor-111111?style=for-the-badge&logoColor=white" /><br><sub>Remote</sub></td>
+<td><img src="https://www.google.com/s2/favicons?domain=mercor.com&sz=64" width="16" align="top" /> <b>Mercor</b><br><sub>Remote</sub></td>
 <td><b>Model Analyst & Coding Expert</b><br><sub>2025 – 2026</sub></td>
 <td>Side-by-side model output evaluation with written reasoning breakdowns. Audited 120+ AI-generated hiring evaluations for reasoning errors and bias.<br><br><code>LLM Eval</code> <code>Benchmarking</code></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/IDX_Exchange-0F766E?style=for-the-badge&logoColor=white" /><br><sub>Remote</sub></td>
+<td><img src="https://www.google.com/s2/favicons?domain=idxexchange.com&sz=64" width="16" align="top" /> <b>IDX Exchange</b><br><sub>Remote</sub></td>
 <td><b>Software Developer Intern</b><br><sub>Oct 2025 – Nov 2025</sub></td>
 <td>Led 5 engineers on a full-stack microservice integrating CRMLS data. Designed the MySQL schemas behind property search.<br><br><code>React</code> <code>TypeScript</code> <code>PHP</code> <code>MySQL</code></td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/CollegeDAO-7C3AED?style=for-the-badge&logoColor=white" /><br><sub>Remote</sub></td>
-<td><b>Core Team & Developer</b><br><sub>Oct 2024 – Sep 2025</sub></td>
-<td>Built the MVP for Latent, an AI-powered collaborative hiring platform connecting candidates and recruiters.<br><br><code>Full-stack</code> <code>AI Workflows</code></td>
 </tr>
 </table>
 
@@ -56,10 +51,10 @@ I build AI systems that turn emerging technology into real, measurable impact.
 
 ### 🚀 Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="18%"><b>ShotBook</b><br><sub>Jun 2026</sub></td>
-<td>Book-to-video platform that tracks evolving story lore so users can highlight text and generate scenes in real time. Implements a baseline-then-delta state machine enforcing narrative continuity across generations.</td>
+<td width="46%">Book-to-video platform that tracks evolving story lore so users can highlight text and generate scenes in real time. Implements a baseline-then-delta state machine enforcing narrative continuity across generations.</td>
 <td width="22%"><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>vLLM</code> <code>Wan 2.2</code></td>
 <td width="14%"><a href="https://github.com/dogeyboy1932/ShotBook">📦 <b>Source</b></a></td>
 </tr>
@@ -99,10 +94,10 @@ I build AI systems that turn emerging technology into real, measurable impact.
 
 ### 🛠️ Stack
 
-<table>
+<table width="100%">
 <tr>
-<td width="14%"><b>Languages</b></td>
-<td>
+<td width="20%"><b>Languages</b></td>
+<td width="80%">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -158,18 +153,21 @@ I build AI systems that turn emerging technology into real, measurable impact.
 
 ### 🛡️ Leadership
 
-<table>
+<table width="100%">
 <tr>
-<td width="26%"><img src="https://img.shields.io/badge/AI_Alignment_@_Illinois-10B981?style=for-the-badge&logoColor=white" /><br><br><sub><b>Co-Founder · Vice President</b><br><b>Fellowship Co-Director</b><br>Now Alumni Advisor</sub></td>
-<td>Co-built UIUC's first organized AI safety community from zero. Now <b>400+</b> in the community, <b>20</b> internal members, and <b>7+</b> independent research projects running. Co-ran an 8-week technical fellowship covering RLHF, Constitutional AI, mechanistic interpretability, adversarial robustness, and scalable oversight. Still advising post-graduation.<br><br><a href="https://aialignmentillinois.org/spring-2026/">🌐 aialignmentillinois.org</a></td>
+<td align="center" width="33%"><h3>🧠</h3><b>AI Alignment @ Illinois</b><br><sub>Co-Founder · Vice President<br>Fellowship Co-Director<br><i>Now Alumni Advisor</i></sub></td>
+<td align="center" width="33%"><h3>⚙️</h3><b>Sigma Phi Delta</b><br><sub>ΣΦΔ · Brother<br>Professional Engineering<br>Fraternity</sub></td>
+<td align="center" width="33%"><h3>⛓️</h3><b>Illini Blockchain</b><br><sub>VP Partnerships<br>Project Lead</sub></td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Sigma_Phi_Delta_ΣΦΔ-6D28D9?style=for-the-badge&logoColor=white" /><br><br><sub><b>Brother</b></sub></td>
-<td>International social-professional fraternity for engineers.<br><br><a href="https://sigphis.org/">🌐 sigphis.org</a></td>
+<td valign="top">Co-built UIUC's first organized AI safety community from zero. Now <b>400+</b> in the community, <b>20</b> internal members, <b>7+</b> independent research projects. Co-ran an 8-week fellowship on RLHF, Constitutional AI, mechanistic interpretability, adversarial robustness, and scalable oversight.</td>
+<td valign="top">International social-professional fraternity for engineers.</td>
+<td valign="top">Managed cross-functional technical teams and strategic external partnerships for UIUC's primary blockchain organization.</td>
 </tr>
 <tr>
-<td><img src="https://img.shields.io/badge/Illini_Blockchain-E84A27?style=for-the-badge&logoColor=white" /><br><br><sub><b>VP Partnerships</b><br><b>Project Lead</b></sub></td>
-<td>Managed cross-functional technical teams and strategic external partnerships for UIUC's primary blockchain organization.<br><br><a href="https://linktr.ee/illiniblockchain">🌐 linktr.ee/illiniblockchain</a></td>
+<td align="center"><a href="https://aialignmentillinois.org/spring-2026/">↗ site</a></td>
+<td align="center"><a href="https://sigphis.org/">↗ site</a></td>
+<td align="center"><a href="https://linktr.ee/illiniblockchain">↗ site</a></td>
 </tr>
 </table>
 
@@ -189,11 +187,11 @@ I build AI systems that turn emerging technology into real, measurable impact.
 
 ### ☕ Outside Work
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="25%"><h1>7</h1><sub><b>COUNTRIES</b></sub></td>
 <td align="center" width="25%"><h1>1805</h1><sub><b>LICHESS RAPID</b></sub></td>
-<td align="center" width="25%"><h1>10K+</h1><sub><b>HOURS OF FILM & TV</b></sub></td>
+<td align="center" width="25%"><h1>10K+</h1><sub><b>FILM & TV HOURS</b></sub></td>
 <td align="center" width="25%"><h1>4</h1><sub><b>RACQUET SPORTS</b></sub></td>
 </tr>
 </table>
@@ -202,47 +200,20 @@ I build AI systems that turn emerging technology into real, measurable impact.
 
 <br>
 
-<table>
-<tr>
-<td width="20%"><b>🤖 Claude-maxing</b></td>
-<td>Running as much of my life through Claude as I can. Built my own MCP server to surface Uber Eats deals.</td>
-</tr>
-<tr>
-<td><b>♟️ Games</b></td>
-<td>Chess at 1805 rapid on Lichess. Poker, card games, and board games. <a href="https://lichess.org/@/trashboatsr">@trashboatsr</a></td>
-</tr>
-<tr>
-<td><b>🏓 Racquet Sports</b></td>
-<td>Tennis doubles, badminton, pickleball, and learning table tennis.</td>
-</tr>
-<tr>
-<td><b>🎬 Movies & TV</b></td>
-<td>10,000+ hours across genres and storytelling styles. I read film and series lore for fun.</td>
-</tr>
-<tr>
-<td><b>✈️ Travel</b></td>
-<td>Singapore, Malaysia, Thailand, Cambodia, Indonesia, India, and the US. Studied at NUS and embraced new perspectives. Loved it.</td>
-</tr>
-<tr>
-<td><b>🛼 Rollerblading</b></td>
-<td>Recent pickup. It's fun.</td>
-</tr>
-<tr>
-<td><b>📊 Economics & Statistics</b></td>
-<td>Minored in statistics. Favorite topics to read and think about outside of engineering.</td>
-</tr>
-<tr>
-<td><b>⛓️ Blockchain</b></td>
-<td>Traded crypto and NFTs, and built on-chain for a while.</td>
-</tr>
-<tr>
-<td><b>🧹 Organizing</b></td>
-<td>I tidy and systematize things to a fault.</td>
-</tr>
-<tr>
-<td><b>🧀 Also</b></td>
-<td>Cheese. Tried learning Sanskrit for fun.</td>
-</tr>
+<table width="100%">
+<tr><td width="22%"><b>🤖 Claude-maxing</b></td><td width="78%">Running as much of my life through Claude as I can. Custom MCP servers, automated workflows, whatever I can wire up.</td></tr>
+<tr><td><b>📊 Economics & Statistics</b></td><td>Minored in statistics. My favorite things to read about outside of engineering.</td></tr>
+<tr><td><b>⛓️ Blockchain</b></td><td>Traded crypto and NFTs, and built on-chain for a while.</td></tr>
+<tr><td><b>♟️ Chess</b></td><td>1805 rapid on Lichess. <a href="https://lichess.org/@/trashboatsr">@trashboatsr</a></td></tr>
+<tr><td><b>🃏 Poker</b></td><td>The newest obsession.</td></tr>
+<tr><td><b>🎲 Board & Card Games</b></td><td>Always down for a table.</td></tr>
+<tr><td><b>🏓 Racquet Sports</b></td><td>Tennis doubles, badminton, pickleball, and learning table tennis.</td></tr>
+<tr><td><b>🛼 Rollerblading</b></td><td>Recent pickup. It's fun.</td></tr>
+<tr><td><b>🎬 Movies & TV</b></td><td>10,000+ hours across genres and storytelling styles. I read film and series lore for fun.</td></tr>
+<tr><td><b>✈️ Travel</b></td><td>Singapore, Malaysia, Thailand, Cambodia, Indonesia, India, and the US. Studied at NUS and embraced new perspectives. Loved it.</td></tr>
+<tr><td><b>🧹 Organizing</b></td><td>I tidy and systematize things to a fault.</td></tr>
+<tr><td><b>🕉️ Sanskrit</b></td><td>Tried learning it for fun.</td></tr>
+<tr><td><b>🧀 Cheese</b></td><td>Yes.</td></tr>
 </table>
 
 <br>
