@@ -55,10 +55,16 @@ Building AI systems that turn emerging technology into real, measurable impact
 
 <table width="100%">
 <tr>
-<td width="12%"><b>ShotBook</b><br><sub>Jun 2026</sub></td>
-<td width="50%">Book-to-video platform that tracks evolving story lore so users can highlight text and generate scenes in real time. Implements a baseline-then-delta state machine enforcing narrative continuity across generations.</td>
-<td width="24%"><img src="https://img.shields.io/badge/React-334155?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-334155?style=flat-square" /> <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square" /> <img src="https://img.shields.io/badge/vLLM-334155?style=flat-square" /> <img src="https://img.shields.io/badge/Wan_2.2-334155?style=flat-square" /></td>
-<td width="14%"><a href="https://github.com/dogeyboy1932/ShotBook">📦 <b>Source</b></a></td>
+<td width="12%"><b>AutoRAG</b><br><sub>Sep 2026</sub></td>
+<td width="50%">Agentic RAG in the browser. Users and their AI agents append web content to a shared corpus as they browse, then query it from any page. The full pipeline — chunking, embedding, hybrid cosine + BM25 retrieval — runs client-side inside a WebMCP-powered extension, so an agent on any third-party site reaches the corpus with nothing wired up. Built for the WebMCP Challenge.</td>
+<td width="24%"><img src="https://img.shields.io/badge/Next.js-334155?style=flat-square" /> <img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square" /> <img src="https://img.shields.io/badge/Chrome_MV3-334155?style=flat-square" /> <img src="https://img.shields.io/badge/transformers.js-334155?style=flat-square" /> <img src="https://img.shields.io/badge/WebMCP-334155?style=flat-square" /> <img src="https://img.shields.io/badge/Supabase-334155?style=flat-square" /></td>
+<td width="14%"><a href="https://autorag-web.netlify.app">🌐 <b>Live</b></a> · <a href="https://github.com/dogeyboy1932/autorag">📦 <b>Source</b></a></td>
+</tr>
+<tr>
+<td><b>ShotBook</b><br><sub>Jun 2026</sub></td>
+<td>Book-to-video platform that tracks evolving story lore so users can highlight text and generate scenes in real time. Implements a baseline-then-delta state machine enforcing narrative continuity across generations.</td>
+<td><img src="https://img.shields.io/badge/React-334155?style=flat-square" /> <img src="https://img.shields.io/badge/FastAPI-334155?style=flat-square" /> <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat-square" /> <img src="https://img.shields.io/badge/vLLM-334155?style=flat-square" /> <img src="https://img.shields.io/badge/Wan_2.2-334155?style=flat-square" /></td>
+<td><a href="https://github.com/dogeyboy1932/ShotBook">📦 <b>Source</b></a></td>
 </tr>
 <tr>
 <td><b>Weave</b><br><sub>Mar 2026</sub></td>
